@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aufar or Djorro, mostly Djorro on internet. Start from PHP developer and now want to know about javascript world
+I am Aufar or Djorro, mostly Djorro on internet. Started from PHP developer and now want to know about javascript world
 
 💻 My current tech stack:
 - Vue
