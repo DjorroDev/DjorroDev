@@ -15,5 +15,5 @@ I am Aufar or Djorro, mostly Djorro on internet. Started from C# and Unity and n
 - Nuxt JS
 
 
-📫 How to reach me: aufarmawarid@gmail.com
+📫 How to reach me: djorrostudio@gmail.com
 
